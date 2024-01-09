@@ -1,3 +1,7 @@
+![Alt Text](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
+
+
+
 - 👋 Hi, I’m @VishalMagdum
 - 👀 I’m interested in Full Stack Web Development, UI UX Design. 
 - 🌱 I’m currently learning MERN Stack
