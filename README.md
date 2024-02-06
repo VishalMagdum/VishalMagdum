@@ -1,4 +1,6 @@
-<img src="https://res.cloudinary.com/dbuztntar/image/upload/v1707243788/k1tcvpfggl8bg5intvcn.gif" alt="Alt text" style="width: 100vw;">
+<div style="display:flex;alig-items: center;justify-content:center">
+  <img src="https://res.cloudinary.com/dbuztntar/image/upload/v1707243788/k1tcvpfggl8bg5intvcn.gif" alt="Alt text" style="width:500px; ">
+</div>
 
 
 - 👋 Hi, I’m @VishalMagdum
