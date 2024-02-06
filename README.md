@@ -1,4 +1,4 @@
-![color picker](https://magiccopy.xyz/assets/images/hadder.gif)
+<img src="https://res.cloudinary.com/dbuztntar/image/upload/v1707243788/k1tcvpfggl8bg5intvcn.gif" alt="Alt text" style="width: 100vw;">
 
 
 - 👋 Hi, I’m @VishalMagdum
