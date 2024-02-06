@@ -1,5 +1,5 @@
 <div style="display:flex;alig-items: center;justify-content:center">
-  <img src="https://res.cloudinary.com/dbuztntar/image/upload/v1707243788/k1tcvpfggl8bg5intvcn.gif" alt="Alt text" style="width:500px; ">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Alt text" style="width:500px; height:200px">
 </div>
 
 
