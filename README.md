@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Alt text" style="width:500px; height:200px">
 </div>
 
-## 🎨 "Painting with pixels, sculpting with syntax - creating digital masterpieces that come to life. #CodeArtistry"
+## 🎨 Painting with pixels, sculpting with syntax - creating digital masterpieces that come to life. #CodeArtistry
 
  
 <img src="https://drive.google.com/uc?export=view&id=1DJso5oEIGiJtyTjXfrGcHDWme2QoEMGh" alt="Alt text" style="width: 100px; border-radius: 50%;"> 
