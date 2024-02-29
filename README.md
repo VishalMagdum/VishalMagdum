@@ -3,14 +3,11 @@
 </div>
 
 #  
-<img src="https://drive.google.com/uc?export=view&id=1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0" alt="Alt text" width="500px" height="200px">
+<img src="https://drive.google.com/uc?export=view&id=1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0" alt="Alt text" width="200px" >
 
  Vishal Popat Magdum
 
- <div style="display:flex;alig-items: center;justify-content:center">
-   <img src="https://drive.google.com/file/d/1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0"/>
-   <h4>Vishal Popat Magdum</h4>
- </div>
+
 
 
 
