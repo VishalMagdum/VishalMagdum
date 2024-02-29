@@ -4,7 +4,7 @@
 
 # 👨‍💻 Vishal Popat Magdum
 
-![Vishal Popat Magdum](https://drive.google.com/file/d/1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0/view?usp=drive_link)
+![Vishal Popat Magdum](https://drive.google.com/file/d/1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0/view?usp=sharing)
 
 ## 📝 About Me
 Experienced MERN stack developer with over 1 year of professional experience. Passionate about building responsive and efficient web applications using modern technologies. Proficient in Next.js and interested in PWA development. 
