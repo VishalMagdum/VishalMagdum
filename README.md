@@ -5,6 +5,11 @@
 # ![Alt text](https://drive.google.com/uc?export=view&id=1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0){:height="200px" width="500px"}
  Vishal Popat Magdum
 
+ <div style="display:flex;alig-items: center;justify-content:center">
+   <img src="https://drive.google.com/file/d/1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0"/>
+   <h4>Vishal Popat Magdum</h4>
+ </div>
+
 
 
 
