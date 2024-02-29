@@ -2,9 +2,9 @@
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Alt text" style="width:500px; height:200px">
 </div>
 
-# 👨‍💻 Vishal Popat Magdum
+# ![Alt text](https://drive.google.com/uc?export=view&id=1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0) Vishal Popat Magdum
 
-![Alt text](https://drive.google.com/uc?export=view&id=1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0)
+
 
 
 ## 📝 About Me
