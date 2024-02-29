@@ -3,9 +3,10 @@
 </div>
 
 #  
-<img src="https://drive.google.com/uc?export=view&id=1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0" alt="Alt text" width="200px" >
+<img src="https://drive.google.com/uc?export=view&id=1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0" alt="Alt text" style="width: 100px;  border-radius: 50%;">  Vishal Popat Magdum
 
- Vishal Popat Magdum
+
+
 
 
 
