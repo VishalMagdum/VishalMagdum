@@ -2,11 +2,12 @@
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Alt text" style="width:500px; height:200px">
 </div>
 
-#  
-<img src="https://drive.google.com/uc?export=view&id=1DJso5oEIGiJtyTjXfrGcHDWme2QoEMGh" alt="Alt text" style="width: 100px; border-radius: 50%;">
- Vishal Popat Magdum
+ 
+<img src="https://drive.google.com/uc?export=view&id=1DJso5oEIGiJtyTjXfrGcHDWme2QoEMGh" alt="Alt text" style="width: 100px; border-radius: 50%;"> 
 
-![Kitten](https://drive.google.com/uc?export=view&id=1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0){: width=150 height=100 style="width: 100px;  border-radius: 50%;"} 
+## Vishal Popat Magdum
+
+
 
 
 
