@@ -5,6 +5,7 @@
 #  
 <img src="https://drive.google.com/uc?export=view&id=1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0" alt="Alt text" style="width: 100px;  border-radius: 50%;">  Vishal Popat Magdum
 
+![Kitten](https://drive.google.com/uc?export=view&id=1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0){: width=150 height=100 style="width: 100px;  border-radius: 50%;"} 
 
 
 
