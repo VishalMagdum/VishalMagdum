@@ -1,13 +1,15 @@
 <div style="display:flex;alig-items: center;justify-content:center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Alt text" style="width:500px; height:200px">
 </div>
-Copy code
+
 # 👨‍💻 Vishal Popat Magdum
 
-![Vishal Popat Magdum](https://your-image-url-here)
+![Vishal Popat Magdum](https://drive.google.com/file/d/1m5NdnMBIFSATh5U7FUyBrMVK1dwr-Zh0/view?usp=drive_link)
 
 ## 📝 About Me
 Experienced MERN stack developer with over 1 year of professional experience. Passionate about building responsive and efficient web applications using modern technologies. Proficient in Next.js and interested in PWA development. 
+
+👀 I’m interested in Full Stack Web Development, UI UX Design. 
 
 ## 🚀 Skills
 - **Frontend Development**: HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, Material UI, Bootstrap
@@ -29,16 +31,14 @@ Experienced MERN stack developer with over 1 year of professional experience. Pa
 ## 🏅 Certifications
 - [Certification Name] - [Issuing Organization] - [Year]
 
-## 📧 Contact
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
-- GitHub: [Your GitHub Profile URL]
+## 🤝🏼 Looking to Collaborate
+- 💞️ I’m looking to collaborate on projects related to Full Stack Web Development, UI UX Design.
 
-- 👋 Hi, I’m @VishalMagdum
-- 👀 I’m interested in Full Stack Web Development, UI UX Design. 
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email me @ vishalmagdum17899@gmail.com
+## 📧 Contact
+- Email: [vishalmagdum17899@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/vishal-magdum-893166228/]
+
+
 
 <!---
 VishalMagdum/VishalMagdum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
