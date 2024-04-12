@@ -35,7 +35,7 @@ Experienced MERN stack developer with over 1.5 year of professional experience. 
 
 ## 📧 Contact
 - Email: [vishalmagdum17899@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/vishal-magdum-893166228/]
+  <a href = "https://www.linkedin.com/in/vishal-magdum-893166228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 
