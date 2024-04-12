@@ -19,7 +19,7 @@
 
 
 ## 📝 About Me
-Experienced MERN stack developer with over 1 year of professional experience. Passionate about building responsive and efficient web applications using modern technologies. Proficient in Next.js,React.js and interested in PWA development. 
+Experienced MERN stack developer with over 1.5 year of professional experience. Passionate about building responsive and efficient web applications using modern technologies. Proficient in Next.js,React.js and interested in PWA development. 
 
 👀 I’m interested in Full Stack Web Development, UI UX Design. 
 
