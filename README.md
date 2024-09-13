@@ -1,13 +1,13 @@
-<div style="display:flex;alig-items: center;justify-content:center">
+<div align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Alt text" style="width:500px; height:200px">
 </div>
 
 ## 🎨 Painting with pixels, sculpting with syntax - creating digital masterpieces that come to life. #CodeArtistry
+<div align="center">
+   <img src="https://drive.google.com/uc?export=view&id=1tQdIP1BRyNXb975PEwmC969r1k2zNzK4" alt="Alt text" style="width: 100px; border-radius: 50%;">
+   <h2>Vishal Popat Magdum</h2>
+</div>
 
- 
-<img src="https://drive.google.com/uc?export=view&id=1DJso5oEIGiJtyTjXfrGcHDWme2QoEMGh" alt="Alt text" style="width: 100px; border-radius: 50%;"> 
-
-## Vishal Popat Magdum
 
 
 
