@@ -34,8 +34,9 @@ Experienced MERN stack developer with over 1.5 year of professional experience. 
 - 💞️ I’m looking to collaborate on projects related to Full Stack Web Development, UI UX Design.
 
 ## 📧 Contact
-- Email: [vishalmagdum17899@gmail.com] <br/>
+
  <a href = "https://www.linkedin.com/in/vishal-magdum-893166228/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"  style="width:50px; height:50px"/></a>
+  <a href = "mailto:vishalmagdum17899@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"  style="width:50px; height:50px"/></a>
 
 
 
