@@ -24,7 +24,7 @@ Experienced MERN stack developer with over 1.5 year of professional experience. 
 👀 I’m interested in Full Stack Web Development, UI UX Design. 
 
 ## 🚀 Skills
-- **Frontend Development**: HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, Material UI, Bootstrap
+- **Frontend Development**: HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, Redux, Material UI, Bootstrap
 - **Backend Development**: Express.js, Node.js
 - **Database**: MongoDB, MySQL
 - **Cloud Services**: AWS, Netlify, Reander
