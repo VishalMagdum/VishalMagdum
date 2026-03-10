@@ -18,20 +18,94 @@
 
 
 
-## 📝 About Me
-Experienced MERN stack developer with over 1.5 year of professional experience. Passionate about building responsive and efficient web applications using modern technologies. Proficient in Next.js,React.js and interested in PWA development. 
+# 👨‍💻 Vishal Magdum
 
-👀 I’m interested in Full Stack Web Development, UI UX Design. 
+Software Engineer with **4+ years of experience** building scalable web and mobile applications. Specialized in **Full Stack Development using the MERN stack and modern frontend frameworks**.
 
-## 🚀 Skills
-- **Frontend Development**: HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, Redux, Material UI, Bootstrap
-- **Backend Development**: Express.js, Node.js
-- **Database**: MongoDB, MySQL
-- **Cloud Services**: AWS, Netlify, Reander
-- **Tools & Utilities**: VSCode, Postman, Git, Azure Devops
+Currently working on **building a JSON-driven low-code platform using Flutter**, capable of dynamically rendering applications from configuration files. Experienced in designing **dynamic UI engines, reusable component architectures, and highly responsive web applications**.
 
-## 🤝🏼 Looking to Collaborate
-- 💞️ I’m looking to collaborate on projects related to Full Stack Web Development, UI UX Design.
+Passionate about **clean architecture, developer productivity tools, and building platforms that enable rapid application development**.
+
+---
+
+## 👀 Interests
+- Full Stack Web Development
+- Low-Code Platform Development
+- UI Architecture & Design Systems
+- AI-powered Applications
+- Progressive Web Apps (PWA)
+
+---
+
+# 🚀 Skills
+
+## Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Angular
+- Flutter
+- Redux / State Management
+- Tailwind CSS
+- Material UI
+- Bootstrap
+- Responsive Web Design
+- Progressive Web Apps (PWA)
+
+---
+
+## Backend Development
+- Node.js
+- Express.js
+- REST API Development
+
+---
+
+## Databases
+- MongoDB
+- MySQL
+
+---
+
+## Cloud & Deployment
+- AWS
+- Netlify
+- Render
+
+---
+
+## Tools & Platforms
+- Git
+- GitHub
+- Azure DevOps
+- VS Code
+- Postman
+
+---
+
+## AI & Developer Tools
+- ChatGPT
+- GitHub Copilot
+- Cursor
+- Devin AI
+
+---
+
+## Low-Code / Development Platforms
+- Developing a **JSON-driven low-code framework in Flutter**
+- FlutterFlow
+- Lovable.dev
+
+---
+
+💡 **Special Interests**
+- JSON-driven UI rendering systems
+- Low-code platform architecture
+- Dynamic application builders
+- Cross-platform development (Web & Mobile)
 
 ## 📧 Contact
 
